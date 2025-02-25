@@ -19,7 +19,7 @@ header {
 }
 
 h3 {
-  background-color: hsl(273deg, 53%, 73%);
+  background-color: hsl(273deg 53% 73%);
   color: hsl(239deg 74 29);
   padding: 30px;
   font-family: monospace;
