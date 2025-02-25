@@ -4,14 +4,14 @@
 */
 
 body {
-  background-color: rgb(249 239 255);
-  color: rgb(95 95 197);
+  background-color: hsl(249deg 239 255);
+  color: hsl(95deg 95 197);
   padding: 40px;
   text-align: center;
 }
 
 h3 {
-  background-color: rgb(170 181 223);
+  background-color: hsl(170deg 181 223);
   color: hsl(239deg 74 29);
   padding: 30px;
   font-family: monospace;
